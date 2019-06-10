@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost:27017/chatapp",
+    "secret": "815C6FA2429D2F7C861FBE2565DEA"
+}
